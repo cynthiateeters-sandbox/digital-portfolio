@@ -1,6 +1,7 @@
 # dependencies installed by npm
 # https://docs.netlify.com/integrations/frameworks/eleventy/#requirement-for-build-plugins
 **/node_modules/**
+node_modules
 
 # build artefacts
 public
